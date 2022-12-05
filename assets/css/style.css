@@ -281,6 +281,13 @@ footer {
         padding: 0;
     }
 
+    #times > div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
     hr {
         display: none;
     }
@@ -321,3 +328,4 @@ footer {
         padding: 0 20px;
     }
 }
+
